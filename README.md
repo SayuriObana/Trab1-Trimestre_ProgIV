@@ -1,7 +1,5 @@
 # Repositório de Atividades - Programação .NET
 
-Este repositório contém três exercícios desenvolvidos durante as aulas da disciplina de Programação:
-
 ---
 
 ## Exercício 1 – MenuPrincipal (WPF)
@@ -50,5 +48,3 @@ Extensão da API de Vendas com vínculo de vendedores às transações. Inclui:
 - APIs conectadas com MySQL via EF Core
 - Versionamento com Git e `.gitignore` aplicado
 - A validação de e-mail no Exercício 3 foi desconsiderada para esta entrega
-
-Dúvidas? Estou à disposição para ajudar na avaliação!
